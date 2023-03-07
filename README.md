@@ -13,4 +13,7 @@ Transformation and the Continuous Wavelet Transform (CWT) and deep convolutional
 The resulting CNNs are used to classify the given ECG signal to ARR, CHF, and NSR, respectively.
 
 # Steps to follow
+Before starting run start_up.m file or just type start_up in the command window.
+
+TestData file is made to test any ECG signal. But to test, you need to train the neural networks first. It is all available in TestData.mlx file
 
